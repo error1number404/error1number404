@@ -1,16 +1,56 @@
-### Hi there 👋
+## About me
+Hello my name is Ostap, I'm 19 y.o and living in a Russia.<br>
+I'm a Python Backend developer. So here are the technologies I've worked with and in which I have some experience:<br>
 
-<!--
-**error1number404/error1number404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Python web-frameworks:<br>
+![Django](https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white)
+![Fastapi](https://img.shields.io/badge/Fastapi-000000?style=badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=badge&logo=flask&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Databases:<br>
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://badges.aleen42.com/src/elasticsearch.svg)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=badge&logo=apachekafka)
+![Clickhouse](https://img.shields.io/badge/Clickhouse-FFFFFF?.svg?style=Clickhouse&logo=Clickhouse)
+
+Web-servers:<br>
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-000000?.svg?style=Gunicorn&logo=Gunicorn&logoColor=green)
+
+Testing:<br>
+![Pytest](https://img.shields.io/badge/pytest-FFFFFF?style=badge&logo=pytest)
+![Postman](https://img.shields.io/badge/postman-FFFFFF?style=badge&logo=postman)
+
+
+Non-category:<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=badge&logo=docker&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-000000?style=badge&logo=jinja)
+
+
+So that's all for now maybe I forgot something but let's pretend that im not.
+
+I'm open for any ideas and projects so you can contact me:<br>
+
+<a href="https://t.me/error1number404">
+
+![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=badge&logo=telegram)
+</a>
+## Github stats
+
+<div style="padding: 5px; display: flex; flex-direction: column">
+
+<img style="width: 60%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=error1number404&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+<img style="width: 60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=error1number404&include_all_commits=true&theme=dracula&layout=compact&langs_count=10"/>
+
+</div>
+
+## Spotify integration: 
+
+<div style="width: 60%">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4q6shiypnf5d3uslnnpgvzvlb&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
