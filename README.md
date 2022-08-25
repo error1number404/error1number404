@@ -15,6 +15,7 @@ Databases:<br>
 ![Elasticsearch](https://badges.aleen42.com/src/elasticsearch.svg)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=badge&logo=apachekafka)
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-FFFFFF?.svg?style=Clickhouse&logo=Clickhouse)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=badge&logo=mongodb)
 
 Web-servers:<br>
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=badge&logo=nginx&logoColor=white)
@@ -24,10 +25,12 @@ Testing:<br>
 ![Pytest](https://img.shields.io/badge/pytest-FFFFFF?style=badge&logo=pytest)
 ![Postman](https://img.shields.io/badge/postman-FFFFFF?style=badge&logo=postman)
 
-
 Non-category:<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=badge&logo=docker&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-000000?style=badge&logo=jinja)
+![Kibana](https://img.shields.io/badge/Kibana-123321?style=badge&logo=kibana)
+![Logstash](https://img.shields.io/badge/Logstash-321123?style=badge&logo=logstash)
+![Sentry](https://img.shields.io/badge/Sentry-456654?style=badge&logo=sentry)
 
 
 So that's all for now maybe I forgot something but let's pretend that im not.
