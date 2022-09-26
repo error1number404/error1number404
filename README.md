@@ -13,7 +13,6 @@ Databases:<br>
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://badges.aleen42.com/src/elasticsearch.svg)
-
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-FFFFFF?.svg?style=Clickhouse&logo=Clickhouse)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=badge&logo=mongodb)
 
