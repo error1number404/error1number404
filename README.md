@@ -13,9 +13,14 @@ Databases:<br>
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://badges.aleen42.com/src/elasticsearch.svg)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=badge&logo=apachekafka)
+
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-FFFFFF?.svg?style=Clickhouse&logo=Clickhouse)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=badge&logo=mongodb)
+
+
+Message Brokers:<br>
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=badge&logo=rabbitmq)
 
 Web-servers:<br>
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=badge&logo=nginx&logoColor=white)
