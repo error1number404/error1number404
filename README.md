@@ -1,5 +1,5 @@
 ## About me
-Hello my name is Ostap, I'm 19 y.o and living in a Russia.<br>
+Hello my name is Ostap, I'm 19 y.o.<br>
 I'm a Python Backend developer. So here are the technologies I've worked with and in which I have some experience:<br>
 
 
