@@ -1,5 +1,5 @@
 ## About me
-Hello my name is Ostap, I'm 19 y.o.<br>
+Hello my name is Ostap, I'm 21 y.o.<br>
 I'm a Python Backend developer. So here are the technologies I've worked with and in which I have some experience:<br>
 
 
@@ -58,6 +58,6 @@ I'm open for any ideas and projects so you can contact me:<br>
 
 <div style="width: 60%">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4q6shiypnf5d3uslnnpgvzvlb&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4q6shiypnf5d3uslnnpgvzvlb&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
